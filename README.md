@@ -1,4 +1,4 @@
-# Automated Chronic Wounds Medical Assessment Tracking Framework Based on Deep Learning
+# Automated Chronic Wounds Medical Assessment and Tracking Framework Based on Deep Learning
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simatec-uis/CO2Dnet/blob/main/notebooks/demo_train.ipynb)
  [![DOI:10.1364/AO.463726](https://zenodo.org/badge/DOI/10.1016/j.compbiomed.2023.107335.svg)](https://doi.org/10.1016/j.compbiomed.2023.107335)
