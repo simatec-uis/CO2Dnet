@@ -12,7 +12,7 @@ If this code is useful for your and you use it in an academic work, please consi
 
 
 ```bib
-@article{monroy2022jr2net,
+@article{monroy2023automated,
  title={Automated chronic wounds medical assessment and tracking framework based on deep learning},
  author={Monroy, Brayan and Sanchez, Karen and Arguello, Paula and Estupi{\~n}{\'a}n,
    Juan and Bacca, Jorge and Correa, Claudia V and Valencia, Laura
